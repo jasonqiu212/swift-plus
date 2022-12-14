@@ -5,21 +5,23 @@
 
 ![Ui](docs/images/Ui.png)
 
-### Manage your Team like never before
+## Overview
 
-#### Team: Swift+ (CS2103-T12-02)
+Swift+ is a desktop **project management system** for software engineering project leads to keep track of their interactions and meetings with clients and colleagues using *swift* **text-based commands**.
 
-- Swift+ is a seamless contact management system to keep track of their interactions and meetings with clients and colleagues using swift text-based commands.
-- Swift+ allows you to plan your schedules looking at their daily/weekly overview.
+Features include:
 
-## Getting Started
+- :memo: Record down clients and teammates
+- :white_check_mark: Assign tasks to contacts
+- :zap: Swift command-line interface (CLI) with autocomplete
 
-1. Download and install `jenv`
-2. Install `Java 11`
-3. Clone the project
+Swift+ was created as part of a [team project](https://nus-cs2103-ay2223s1.github.io/website/admin/tp-expectations.html) for NUS module CS2103T.
+
+- Team: CS2103-T12-02
 
 ## Site Map
 
+- [Latest Release](https://github.com/AY2223S1-CS2103T-T12-2/tp/releases/tag/v1.4)
 - [User Guide](docs/UserGuide.md)
 - [Developer Guide](docs/DeveloperGuide.md)
 - [About Us](docs/AboutUs.md)
